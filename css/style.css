@@ -1,0 +1,19 @@
+body{
+    background-color: palegoldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    font-size: 16px;
+}
+li{
+    
+    font-size: 14px;
+}
+.recipie-list{
+    font-size: 26px;
+    text-align: center;
+}
